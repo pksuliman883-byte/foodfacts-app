@@ -21,3 +21,5 @@ A React app that allows users to search for food items and view their nutritiona
 ```bash
 npm install
 npm run dev
+
+This project was built as part of a React learning assignment.
